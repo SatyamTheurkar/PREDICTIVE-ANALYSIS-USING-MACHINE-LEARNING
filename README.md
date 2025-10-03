@@ -16,8 +16,7 @@
 
 ## Overview
 
-This project involves performing predictive analysis on the **Walmart dataset** using **Random Forest Regression** in Python. It was carried out in **Google Colab** as part of an internship assignment. The aim is to predict the `Average GPA` of students based on various academic and demographic features.
-
+Predictive analysis applies machine learning techniques to analyze past data, identify relationships, and build models that anticipate future results. These predictions can relate to student performance, business needs, market trends, or other important variables impacting decision-making.
 ---
 
 ## Dataset
