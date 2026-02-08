@@ -107,7 +107,7 @@ You can tweak hyperparameters or try different algorithms (e.g., Gradient Boosti
 ## Author
 
 **Satyam Theurkar**  
-Task 2 – Internship Project  
+Project  
 Predictive Analysis Using Machine Learning
 
 ---
