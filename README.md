@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-# Predictive Analysis using Machine Learning — Task 2
+# Predictive Analysis using Machine Learning
 
 ## Overview
 
